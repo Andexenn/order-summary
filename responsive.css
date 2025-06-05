@@ -1,0 +1,41 @@
+@media (max-width: 375px) {
+  .container {
+    width: 350px;
+    max-width: (100% - 40px);
+  }
+  .content {
+    padding: 0 25px;
+  }
+  .title {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+
+  .info {
+    padding: 0 25px;
+    margin-top: 55px;
+  }
+
+  .info-display{
+    padding: 15px;
+  }
+  .info-display img{
+    width: 40px;
+  }
+
+  .Plan{
+    height: 35px;
+  }
+
+  .Plan span:first-child{
+    font-size: 1.4rem;
+  }
+
+  .Plan span:nth-child(2){
+    font-size: 1.4rem;
+  }
+  
+  .info-display a{
+    font-size: 1.4rem;
+  }
+}

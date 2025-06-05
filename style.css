@@ -99,13 +99,13 @@ body {
   color: hsl(228, 2%, 45%);
 }
 
-.info-display > span {
+.info-display a {
   margin-left: auto;
   cursor: pointer;
   font-weight: 600;
 }
 
-.info-display > span:hover {
+.info-display a:hover {
   color: hsl(249, 100%, 73%);
 }
 
